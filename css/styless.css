@@ -2,14 +2,44 @@
     width: 20%;
     border-width: 1px;
     float: left;
-    background-color: darkgray;
+    border-radius: 4px;
+    box-shadow: 0 0 10px rgba(0,0,0,.15);
+    overflow: hidden;
+    text-align: center;
 }
+ul,li,a:hover{
+    list-style-type: none;
+    margin: 0%;
+    padding: 0%;
+    width: 200px;
+    font-family: Arial;
+    font-size: 11pt; 
+    background-color: #666;
+    color: #ccc;
+    text-decoration: none;
+    text-transform: uppercase;
+    display: block;
+    padding: 10px 10px 10px 20px;
+    
+}
+ul,li,a:hover{
+    background: #000;
+    border-left: 10px solid #333;
+    color: #fff;
+}
+
+
 h1{
     color: gold;
     font-weight: bold;
     font-family: arial black;
     font-size: 200%;
 }
+h2,h4,h5,h6{
+    font-family: arial black;
+    font-size: 100%;
+}
+
 p{
     color: white;
     text-align: left;
@@ -41,11 +71,13 @@ p{
 #cabezera {
     border-width: 20px; 
     text-align: center;
+    background-color: black;
 }
 #pie{
     clear: both;
     text-align: center;
     background-color: brown;
+    padding: .1em;
 }
 
 #body {
