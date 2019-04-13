@@ -1,14 +1,20 @@
-* {
-    /*border-color: blue;
-    border-style: solid;
-    border-radius: 50%;*/
-}
-
 #menuPrincipal {
     width: 20%;
     border-width: 1px;
     float: left;
-    background-color: red;
+    background-color: darkgray;
+}
+h1{
+    color: gold;
+    font-weight: bold;
+    font-family: arial black;
+    font-size: 200%;
+}
+p{
+    color: white;
+    text-align: left;
+    font-size: 150%;
+    
 }
 
 #contenido {
@@ -16,7 +22,7 @@
     margin-left: 10px;
     padding: 5px 20px;
     border-width: 3px;
-    background-color: darkgrey;
+    background-color: lightslategrey;
     float: left;
     text-align: center;
 }
@@ -39,7 +45,7 @@
 #pie{
     clear: both;
     text-align: center;
-    background-color: yellow;
+    background-color: brown;
 }
 
 #body {
