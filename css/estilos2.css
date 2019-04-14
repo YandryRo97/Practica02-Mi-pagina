@@ -8,6 +8,10 @@ h2,h4,h5,h6{
     font-family: arial black;
     font-size: 100%;
 }
+h3{
+    font-size: 200%;
+    font-weight: bold;
+}
 
 p{
     color: white;
@@ -18,6 +22,11 @@ p{
 .video{
     width: 800px;
     height: 500px;
+
+}
+.video2{
+    width: 500px;
+    height: 400px;
 
 }
 .imagen200 {
@@ -36,3 +45,11 @@ p{
     
 }
 
+.imagenV {
+    width: 700px;
+    height: 500px;
+}
+.imagenD{
+    width: 210px;
+    height: 250px;
+}
