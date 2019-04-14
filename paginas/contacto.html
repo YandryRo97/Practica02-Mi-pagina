@@ -1,9 +1,43 @@
 <!DOCTYPE html>>
 <html>
     <head>
+        <meta charset="UTF-8">
         <title>
             Contacto
         </title>
+        <link rel="stylesheet" href="boton.css">
+        <style>
+            body{
+                font-family: Arial;
+                background-color: #18A383;
+                box-sizing: border-box;
+            }
+            form{
+                margin: 0 auto;
+                width: 300px;
+                background-color: white;
+                padding: 10px;
+                color:#999;
+                border-radius: 3px;
+                font-size: 0.8em;
+            }
+            input, textarea {
+                outline: none;
+                border:0;
+                width:280px;
+            }
+            .field{
+                border:solid 1px #ccc;
+                padding: 10px;
+                width: 280px;
+            }
+            .fiel:focus{
+                border-color: #18A283;
+            }
+            .centrar{
+                text-align: center;
+            }
+        </style>
     </head>
     <body>
         <header>
@@ -22,5 +56,22 @@
                 </ul>
             </nav>
         </p>
+        <di>
+            <section>
+                <article>
+                    <form method="post" action="file:///C:/Users/PC-MATIC/Desktop/Practica02-PaginaWeb%20Css/index.html">
+                        <p>Nombre:</p>
+                        <input type="text" class="field">
+                        <p>Correo Electronico:</p>
+                        <input type="text" class="field">
+                        <p>Mensaje:</p>
+                        <textarea class="field">Escriba su mensaje</textarea>
+                        <p class="centrar">
+                            <input type="submit" class="btn btn-green" value="Enviar Datos">
+                        </p>
+                    </form>
+                </article>
+            </section>
+        </di>
     </body>
 </html>
