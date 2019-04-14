@@ -1,0 +1,28 @@
+#contenidoT {
+    width: 75%;
+    margin-left: 10px;
+    padding: 5px 20px;
+    border-width: 3px;
+    background-color: rgb(125, 238, 176);
+    float: left;
+    text-align: center;
+}
+
+#contenidoP {
+    width: 70%;
+    margin-left: 10px;
+    padding: 5px 20px;
+    border-width: 3px;
+    background-color: #666;
+    float: left;
+    text-align: center;
+}
+#contenidoS {
+    width: 20%;
+    margin-left: 10px;
+    padding: 5px 20px;
+    border-width: 3px;
+    background-color: rgb(201, 44, 44);
+    float: left;
+    text-align: center;
+}
