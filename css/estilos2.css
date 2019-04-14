@@ -27,7 +27,6 @@ p{
 .video2{
     width: 500px;
     height: 400px;
-
 }
 .imagen200 {
     width: 300px;
@@ -52,4 +51,8 @@ p{
 .imagenD{
     width: 210px;
     height: 250px;
+}
+.imagenM {
+    width: 210px;
+    height: 200px;
 }
