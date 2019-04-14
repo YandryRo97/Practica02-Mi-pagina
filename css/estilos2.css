@@ -35,3 +35,8 @@ p{
     height: 150px;
     
 }
+
+.titulo {
+    font-family: arial black !important;
+    font-size: 100% !important;
+}
