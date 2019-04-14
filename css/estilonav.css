@@ -7,7 +7,7 @@ ul{
     font-family: Arial;
     font-size: 11pt; 
     background-color: #666;
-   
+   border-radius: 5px;
 }
  ul,li,a{
     background-color: #666;
@@ -16,11 +16,13 @@ ul{
     text-transform: uppercase;
     display: block;
     padding: 10px 10px 10px 20px;
+    border-radius: 5px;
  }
 
  ul,li,a:hover{
     background: #000;
     border-left: 10px solid #333;
     color: #fff;
+    border-radius: 5px;
  }
 

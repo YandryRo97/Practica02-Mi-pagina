@@ -1,0 +1,26 @@
+#navegador ul{
+    list-style-type: none;
+    text-align: center;
+    float: left;
+ }
+ #navegador li{
+    display: inline;
+    text-align: center;
+    margin: 0 10px 0 0;
+    float: left;
+    border-radius: 5px !important;
+ }
+ #navegador li a {
+    padding: 2px 7px 2px 7px;
+    color: #666;
+    background-color: #eeeeee;
+    border: 1px solid #ccc;
+    text-decoration: none;
+    display: block;
+    border-radius: 5px !important;
+ }
+ #navegador li a:hover{
+    background-color: #333333;
+    color: #ffffff;
+    border-radius: 5px !important;
+ }
