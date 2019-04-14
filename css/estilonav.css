@@ -1,0 +1,27 @@
+
+ul{
+    list-style-type: none;
+    margin: 0%;
+    padding: 0%;
+    width: 200px;
+    font-family: Arial;
+    font-size: 11pt; 
+    background-color: #666;
+   
+    
+}
+ ul,li,a{
+    background-color: #666;
+    color: #ccc;
+    text-decoration: none;
+    text-transform: uppercase;
+    display: block;
+    padding: 10px 10px 10px 20px;
+ }
+
+ ul,li,a:hover{
+    background: #000;
+    border-left: 10px solid #333;
+    color: #fff;
+ }
+

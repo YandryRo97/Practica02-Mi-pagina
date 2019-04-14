@@ -1,0 +1,27 @@
+h1{
+    color: gold;
+    font-weight: bold;
+    font-family: arial black;
+    font-size: 200%;
+}
+h2,h4,h5,h6{
+    font-family: arial black;
+    font-size: 100%;
+}
+
+p{
+    color: white;
+    text-align: left;
+    font-size: 150%;
+    
+}
+.imagen200 {
+    width: 200px;
+    height: 200px;
+}
+
+.imagenT {
+    width: 1000px;
+    height: 150px;
+    
+}
