@@ -15,9 +15,19 @@ p{
     font-size: 150%;
     
 }
+.video{
+    width: 800px;
+    height: 500px;
+
+}
 .imagen200 {
-    width: 200px;
-    height: 200px;
+    width: 300px;
+    height: 300px;
+}
+
+.imagen500{
+    width: 800px;
+    height: 500px;
 }
 
 .imagenT {

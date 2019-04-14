@@ -17,17 +17,6 @@
     text-align: center;
 }
 
-.imagen200 {
-    width: 200px;
-    height: 200px;
-}
-
-.imagenT {
-    width: 1000px;
-    height: 150px;
-    
-}
-
 #cabezera {
     border-width: 20px; 
     text-align: center;
@@ -37,12 +26,12 @@
     clear: both;
     text-align: center;
     background-color: brown;
-    padding: .1em;
 }
 
 #body {
-    background-image: url("../images/premierlogo.jpg");
+    /*background-image: url("../images/premierlogo.jpg");
     background-repeat: no-repeat;
     background-position: 50% 50%;
-    background-attachment: fixed;
+    background-attachment: fixed;*/
+    background-color: darkcyan;
 }
